@@ -16,7 +16,7 @@ public sealed class DownsamplingCompressor : ICompressor
 
     public Dictionary<string, string>? MetaInfo => new()
     {
-        ["compression_detail"] = _mpeg2 ? "downsampling_420_mpeg2" : "downsampling_420_mpeg1"
+        ["compression_detail"] = _mpeg2 ? "downsampling_420_mpeg2" : "downsampling_420_mpeg"
     };
 
     public byte[] Compress(byte[] data)
