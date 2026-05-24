@@ -1,0 +1,29 @@
+[2026-03-30 23:08:25.917 INF] MSI Server se pokreće...
+[2026-03-30 23:08:26.039 INF] MSI Server pokrenut. Slusam na http://localhost:5000
+[2026-03-30 23:10:56.496 INF] SessionService pokrenut. Storage: msi_storage
+[2026-03-30 23:10:56.528 INF] Nova sesija: d80531e897b14d169321373a7d0e71c0 za 'Screenshot_1.png'
+[2026-03-30 23:10:56.585 INF] Upload OK: session=d80531e897b14d169321373a7d0e71c0 size=1152x654
+[2026-03-30 23:10:56.616 INF] [POST] /api/images/upload | Status: 200 | IP: ::1 | 158ms | UA: 
+[2026-03-30 23:11:17.567 INF] Obrisana sesija d80531e897b14d169321373a7d0e71c0 (msi_storage\d80531e897b14d169321373a7d0e71c0)
+[2026-03-30 23:11:17.568 INF] Eksplicitno brisanje sesije d80531e897b14d169321373a7d0e71c0
+[2026-03-30 23:11:17.571 INF] [DELETE] /api/images/session/d80531e897b14d169321373a7d0e71c0 | Status: 200 | IP: ::1 | 8ms | UA: 
+[2026-03-30 23:11:17.580 INF] Nova sesija: ff61891b649948a4a18b6f781dca2709 za 'output_20260330_231102.msi'
+[2026-03-30 23:11:17.609 INF] Upload OK: session=ff61891b649948a4a18b6f781dca2709 size=1152x654
+[2026-03-30 23:11:17.610 INF] [POST] /api/images/upload | Status: 200 | IP: ::1 | 35ms | UA: 
+[2026-03-30 23:22:56.493 INF] TTL istekao – brisem sesiju ff61891b649948a4a18b6f781dca2709 (poslednji pristup: "2026-03-30T21:11:17.5800150Z")
+[2026-03-30 23:22:56.495 INF] Obrisana sesija ff61891b649948a4a18b6f781dca2709 (msi_storage\ff61891b649948a4a18b6f781dca2709)
+[2026-03-30 23:36:07.616 INF] Eksplicitno brisanje sesije ff61891b649948a4a18b6f781dca2709
+[2026-03-30 23:36:07.617 INF] [DELETE] /api/images/session/ff61891b649948a4a18b6f781dca2709 | Status: 200 | IP: ::1 | 1ms | UA: 
+[2026-03-30 23:36:07.629 INF] Nova sesija: fdcafc26d1d04b9296cb4ed61bc75bdd za 'output_20260330_233558.msi'
+[2026-03-30 23:36:07.675 INF] Upload OK: session=fdcafc26d1d04b9296cb4ed61bc75bdd size=1152x654
+[2026-03-30 23:36:07.676 INF] [POST] /api/images/upload | Status: 200 | IP: ::1 | 55ms | UA: 
+[2026-03-30 23:36:13.906 INF] Primena filtera 'mean_removal' na sesiju fdcafc26d1d04b9296cb4ed61bc75bdd
+[2026-03-30 23:36:13.986 INF] Filter 'mean_removal' zavrsen za 77ms
+[2026-03-30 23:36:14.028 INF] SerializeOutput: format=PNG colorspace=N/A compression=N/A veličina=782.4KB dim=1152x654
+[2026-03-30 23:36:14.031 INF] Filteri mean_removal zavrseni za 86ms na sesiji fdcafc26d1d04b9296cb4ed61bc75bdd
+[2026-03-30 23:36:14.034 INF] [POST] /api/images/filter | Status: 200 | IP: ::1 | 150ms | UA: 
+[2026-03-30 23:36:14.039 INF] Download: sesija=fdcafc26d1d04b9296cb4ed61bc75bdd resultId=e83cf8b6 format=png veličina=782.4KB
+[2026-03-30 23:36:14.049 INF] [GET] /api/images/download/fdcafc26d1d04b9296cb4ed61bc75bdd/e83cf8b6/png | Status: 200 | IP: ::1 | 12ms | UA: 
+[2026-03-30 23:36:28.433 INF] Obrisana sesija fdcafc26d1d04b9296cb4ed61bc75bdd (msi_storage\fdcafc26d1d04b9296cb4ed61bc75bdd)
+[2026-03-30 23:36:28.434 INF] Eksplicitno brisanje sesije fdcafc26d1d04b9296cb4ed61bc75bdd
+[2026-03-30 23:36:28.435 INF] [DELETE] /api/images/session/fdcafc26d1d04b9296cb4ed61bc75bdd | Status: 200 | IP: ::1 | 2ms | UA: 

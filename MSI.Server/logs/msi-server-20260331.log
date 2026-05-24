@@ -1,0 +1,143 @@
+[2026-03-31 14:00:35.828 INF] MSI Server se pokrece...
+[2026-03-31 14:00:35.937 INF] MSI Server pokrenut. Slusam na http://localhost:5000
+[2026-03-31 14:00:46.553 ERR] Neocekivana greska pri uploadu
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at MSI.Server.Services.ImageProcessingService.UploadImageAsync(IFormFile file) in C:\Users\Uros\Desktop\MMS proj 1\MSI.Server\Services\ImageProcessingService.cs:line 39
+   at MSI.Server.Controllers.ImagesController.Upload(IFormFile file) in C:\Users\Uros\Desktop\MMS proj 1\MSI.Server\Controllers\ImagesController.cs:line 30
+[2026-03-31 14:00:46.583 INF] [POST] /api/images/upload | Status: 500 | IP: ::1 | 127ms | UA: 
+[2026-03-31 14:01:00.012 ERR] Neocekivana greska pri uploadu
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at MSI.Server.Services.ImageProcessingService.UploadImageAsync(IFormFile file) in C:\Users\Uros\Desktop\MMS proj 1\MSI.Server\Services\ImageProcessingService.cs:line 39
+   at MSI.Server.Controllers.ImagesController.Upload(IFormFile file) in C:\Users\Uros\Desktop\MMS proj 1\MSI.Server\Controllers\ImagesController.cs:line 30
+[2026-03-31 14:01:00.014 INF] [POST] /api/images/upload | Status: 500 | IP: ::1 | 43ms | UA: 
+[2026-03-31 14:01:02.420 ERR] Neocekivana greska pri uploadu
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at MSI.Server.Services.ImageProcessingService.UploadImageAsync(IFormFile file) in C:\Users\Uros\Desktop\MMS proj 1\MSI.Server\Services\ImageProcessingService.cs:line 39
+   at MSI.Server.Controllers.ImagesController.Upload(IFormFile file) in C:\Users\Uros\Desktop\MMS proj 1\MSI.Server\Controllers\ImagesController.cs:line 30
+[2026-03-31 14:01:02.422 INF] [POST] /api/images/upload | Status: 500 | IP: ::1 | 48ms | UA: 
+[2026-03-31 14:01:09.295 ERR] Neocekivana greska pri uploadu
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at MSI.Server.Services.ImageProcessingService.UploadImageAsync(IFormFile file) in C:\Users\Uros\Desktop\MMS proj 1\MSI.Server\Services\ImageProcessingService.cs:line 39
+   at MSI.Server.Controllers.ImagesController.Upload(IFormFile file) in C:\Users\Uros\Desktop\MMS proj 1\MSI.Server\Controllers\ImagesController.cs:line 30
+[2026-03-31 14:01:09.296 INF] [POST] /api/images/upload | Status: 500 | IP: ::1 | 6ms | UA: 
+[2026-03-31 14:10:30.916 ERR] Neocekivana greska pri uploadu
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at MSI.Server.Services.ImageProcessingService.UploadImageAsync(IFormFile file) in C:\Users\Uros\Desktop\MMS proj 1\MSI.Server\Services\ImageProcessingService.cs:line 39
+   at MSI.Server.Controllers.ImagesController.Upload(IFormFile file) in C:\Users\Uros\Desktop\MMS proj 1\MSI.Server\Controllers\ImagesController.cs:line 30
+[2026-03-31 14:10:30.917 INF] [POST] /api/images/upload | Status: 500 | IP: ::1 | 5ms | UA: 
+[2026-03-31 14:22:28.132 ERR] Neocekivana greska pri uploadu
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at MSI.Server.Services.ImageProcessingService.UploadImageAsync(IFormFile file) in C:\Users\Uros\Desktop\MMS proj 1\MSI.Server\Services\ImageProcessingService.cs:line 39
+   at MSI.Server.Controllers.ImagesController.Upload(IFormFile file) in C:\Users\Uros\Desktop\MMS proj 1\MSI.Server\Controllers\ImagesController.cs:line 30
+[2026-03-31 14:22:28.133 INF] [POST] /api/images/upload | Status: 500 | IP: ::1 | 5ms | UA: 
+[2026-03-31 14:23:46.928 ERR] Neocekivana greska pri uploadu
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at MSI.Server.Services.ImageProcessingService.UploadImageAsync(IFormFile file) in C:\Users\Uros\Desktop\MMS proj 1\MSI.Server\Services\ImageProcessingService.cs:line 39
+   at MSI.Server.Controllers.ImagesController.Upload(IFormFile file) in C:\Users\Uros\Desktop\MMS proj 1\MSI.Server\Controllers\ImagesController.cs:line 30
+[2026-03-31 14:23:46.930 INF] [POST] /api/images/upload | Status: 500 | IP: ::1 | 5ms | UA: 
+[2026-03-31 14:24:04.679 ERR] Neocekivana greska pri uploadu
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at MSI.Server.Services.ImageProcessingService.UploadImageAsync(IFormFile file) in C:\Users\Uros\Desktop\MMS proj 1\MSI.Server\Services\ImageProcessingService.cs:line 39
+   at MSI.Server.Controllers.ImagesController.Upload(IFormFile file) in C:\Users\Uros\Desktop\MMS proj 1\MSI.Server\Controllers\ImagesController.cs:line 30
+[2026-03-31 14:24:04.681 INF] [POST] /api/images/upload | Status: 500 | IP: ::1 | 5ms | UA: 
+[2026-03-31 14:24:53.282 ERR] Neocekivana greska pri uploadu
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at MSI.Server.Services.ImageProcessingService.UploadImageAsync(IFormFile file) in C:\Users\Uros\Desktop\MMS proj 1\MSI.Server\Services\ImageProcessingService.cs:line 39
+   at MSI.Server.Controllers.ImagesController.Upload(IFormFile file) in C:\Users\Uros\Desktop\MMS proj 1\MSI.Server\Controllers\ImagesController.cs:line 30
+[2026-03-31 14:24:53.284 INF] [POST] /api/images/upload | Status: 500 | IP: ::1 | 5ms | UA: 
+[2026-03-31 14:26:42.003 ERR] Neocekivana greska pri uploadu
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at MSI.Server.Services.ImageProcessingService.UploadImageAsync(IFormFile file) in C:\Users\Uros\Desktop\MMS proj 1\MSI.Server\Services\ImageProcessingService.cs:line 39
+   at MSI.Server.Controllers.ImagesController.Upload(IFormFile file) in C:\Users\Uros\Desktop\MMS proj 1\MSI.Server\Controllers\ImagesController.cs:line 30
+[2026-03-31 14:26:42.004 INF] [POST] /api/images/upload | Status: 500 | IP: ::1 | 5ms | UA: 
+[2026-03-31 14:31:54.768 ERR] Neocekivana greska pri uploadu
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at MSI.Server.Services.ImageProcessingService.UploadImageAsync(IFormFile file) in C:\Users\Uros\Desktop\MMS proj 1\MSI.Server\Services\ImageProcessingService.cs:line 39
+   at MSI.Server.Controllers.ImagesController.Upload(IFormFile file) in C:\Users\Uros\Desktop\MMS proj 1\MSI.Server\Controllers\ImagesController.cs:line 30
+[2026-03-31 14:31:54.769 INF] [POST] /api/images/upload | Status: 500 | IP: ::1 | 9ms | UA: 
+[2026-03-31 14:32:56.839 ERR] Neocekivana greska pri uploadu
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at MSI.Server.Services.ImageProcessingService.UploadImageAsync(IFormFile file) in C:\Users\Uros\Desktop\MMS proj 1\MSI.Server\Services\ImageProcessingService.cs:line 39
+   at MSI.Server.Controllers.ImagesController.Upload(IFormFile file) in C:\Users\Uros\Desktop\MMS proj 1\MSI.Server\Controllers\ImagesController.cs:line 30
+[2026-03-31 14:32:56.841 INF] [POST] /api/images/upload | Status: 500 | IP: ::1 | 5ms | UA: 
+[2026-03-31 14:42:15.625 ERR] Neocekivana greska pri uploadu
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at MSI.Server.Services.ImageProcessingService.UploadImageAsync(IFormFile file) in C:\Users\Uros\Desktop\MMS proj 1\MSI.Server\Services\ImageProcessingService.cs:line 39
+   at MSI.Server.Controllers.ImagesController.Upload(IFormFile file) in C:\Users\Uros\Desktop\MMS proj 1\MSI.Server\Controllers\ImagesController.cs:line 30
+[2026-03-31 14:42:15.627 INF] [POST] /api/images/upload | Status: 500 | IP: ::1 | 5ms | UA: 
+[2026-03-31 14:42:19.635 ERR] Neocekivana greska pri uploadu
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at MSI.Server.Services.ImageProcessingService.UploadImageAsync(IFormFile file) in C:\Users\Uros\Desktop\MMS proj 1\MSI.Server\Services\ImageProcessingService.cs:line 39
+   at MSI.Server.Controllers.ImagesController.Upload(IFormFile file) in C:\Users\Uros\Desktop\MMS proj 1\MSI.Server\Controllers\ImagesController.cs:line 30
+[2026-03-31 14:42:19.636 INF] [POST] /api/images/upload | Status: 500 | IP: ::1 | 6ms | UA: 
+[2026-03-31 14:43:45.386 INF] MSI Server se pokrece...
+[2026-03-31 14:43:45.503 INF] MSI Server pokrenut. Slusam na http://localhost:5000
+[2026-03-31 14:43:49.321 INF] SessionService pokrenut. Storage: msi_storage
+[2026-03-31 14:43:49.347 INF] Nova sesija: 431aa1aa8dc140459ab2c118ca0f003d za 'Screenshot_1.png'
+[2026-03-31 14:43:49.403 INF] Upload OK: session=431aa1aa8dc140459ab2c118ca0f003d size=1152x654
+[2026-03-31 14:43:49.427 INF] [POST] /api/images/upload | Status: 200 | IP: ::1 | 123ms | UA: 
+[2026-03-31 14:43:55.456 INF] Sesija 431aa1aa8dc140459ab2c118ca0f003d obrisana.
+[2026-03-31 14:43:55.457 INF] Eksplicitno brisanje sesije 431aa1aa8dc140459ab2c118ca0f003d
+[2026-03-31 14:43:55.460 INF] [DELETE] /api/images/session/431aa1aa8dc140459ab2c118ca0f003d | Status: 200 | IP: ::1 | 7ms | UA: 
+[2026-03-31 14:43:55.510 INF] Nova sesija: d6e82eb63f634c779036d41a5d243a18 za 'DSC_0855-.jpg'
+[2026-03-31 14:43:56.818 INF] Upload OK: session=d6e82eb63f634c779036d41a5d243a18 size=6000x4000
+[2026-03-31 14:43:56.821 INF] [POST] /api/images/upload | Status: 200 | IP: ::1 | 1355ms | UA: 
+[2026-03-31 14:46:30.352 INF] Primena filtera 'sierra' na sesiju d6e82eb63f634c779036d41a5d243a18
+[2026-03-31 14:46:31.614 INF] Filter 'sierra' zavrsen za 1260ms
+[2026-03-31 14:46:32.302 INF] SerializeOutput: format=PNG colorspace=N/A compression=N/A velicina=5963.3KB dim=6000x4000
+[2026-03-31 14:46:32.307 INF] Filteri sierra zavrseni za 1495ms na sesiji d6e82eb63f634c779036d41a5d243a18
+[2026-03-31 14:46:32.312 INF] [POST] /api/images/filter | Status: 200 | IP: ::1 | 2204ms | UA: 
+[2026-03-31 14:46:32.318 INF] Download: sesija=d6e82eb63f634c779036d41a5d243a18 resultId=84992e14 format=png velicina=5963.3KB
+[2026-03-31 14:46:32.336 INF] [GET] /api/images/download/d6e82eb63f634c779036d41a5d243a18/84992e14/png | Status: 200 | IP: ::1 | 20ms | UA: 
+[2026-03-31 14:46:37.903 INF] [POST] /api/images/restore/d6e82eb63f634c779036d41a5d243a18 | Status: 400 | IP: ::1 | 15ms | UA: 
+[2026-03-31 14:46:43.109 INF] Primena filtera 'sierra' na sesiju d6e82eb63f634c779036d41a5d243a18
+[2026-03-31 14:46:43.531 INF] Filter 'sierra' zavrsen za 421ms
+[2026-03-31 14:46:44.201 INF] SerializeOutput: format=PNG colorspace=N/A compression=N/A velicina=5963.3KB dim=6000x4000
+[2026-03-31 14:46:44.204 INF] Filteri sierra zavrseni za 512ms na sesiji d6e82eb63f634c779036d41a5d243a18
+[2026-03-31 14:46:44.207 INF] [POST] /api/images/filter | Status: 200 | IP: ::1 | 1185ms | UA: 
+[2026-03-31 14:46:44.209 INF] Download: sesija=d6e82eb63f634c779036d41a5d243a18 resultId=f435ee2d format=png velicina=5963.3KB
+[2026-03-31 14:46:44.218 INF] [GET] /api/images/download/d6e82eb63f634c779036d41a5d243a18/f435ee2d/png | Status: 200 | IP: ::1 | 9ms | UA: 
+[2026-03-31 14:46:50.550 INF] Primena filtera 'sierra' na sesiju d6e82eb63f634c779036d41a5d243a18
+[2026-03-31 14:46:50.972 INF] Filter 'sierra' zavrsen za 420ms
+[2026-03-31 14:46:51.643 INF] SerializeOutput: format=PNG colorspace=N/A compression=N/A velicina=5963.3KB dim=6000x4000
+[2026-03-31 14:46:51.647 INF] Filteri sierra zavrseni za 509ms na sesiji d6e82eb63f634c779036d41a5d243a18
+[2026-03-31 14:46:51.650 INF] [POST] /api/images/filter | Status: 200 | IP: ::1 | 1184ms | UA: 
+[2026-03-31 14:46:51.652 INF] Download: sesija=d6e82eb63f634c779036d41a5d243a18 resultId=bd1d3794 format=png velicina=5963.3KB
+[2026-03-31 14:46:51.659 INF] [GET] /api/images/download/d6e82eb63f634c779036d41a5d243a18/bd1d3794/png | Status: 200 | IP: ::1 | 7ms | UA: 
+[2026-03-31 14:46:54.035 INF] RestoreCurrent: sesija=d6e82eb63f634c779036d41a5d243a18 dim=6000x4000
+[2026-03-31 14:46:54.040 INF] [POST] /api/images/restore/d6e82eb63f634c779036d41a5d243a18 | Status: 200 | IP: ::1 | 511ms | UA: 
+[2026-03-31 14:46:54.608 INF] [POST] /api/images/restore/d6e82eb63f634c779036d41a5d243a18 | Status: 400 | IP: ::1 | 0ms | UA: 
+[2026-03-31 14:46:57.374 INF] Primena filtera 'sierra' na sesiju d6e82eb63f634c779036d41a5d243a18
+[2026-03-31 14:46:57.798 INF] Filter 'sierra' zavrsen za 422ms
+[2026-03-31 14:46:58.465 INF] SerializeOutput: format=PNG colorspace=N/A compression=N/A velicina=5963.3KB dim=6000x4000
+[2026-03-31 14:46:58.469 INF] Filteri sierra zavrseni za 510ms na sesiji d6e82eb63f634c779036d41a5d243a18
+[2026-03-31 14:46:58.471 INF] [POST] /api/images/filter | Status: 200 | IP: ::1 | 1181ms | UA: 
+[2026-03-31 14:46:58.474 INF] Download: sesija=d6e82eb63f634c779036d41a5d243a18 resultId=de7dc14f format=png velicina=5963.3KB
+[2026-03-31 14:46:58.481 INF] [GET] /api/images/download/d6e82eb63f634c779036d41a5d243a18/de7dc14f/png | Status: 200 | IP: ::1 | 7ms | UA: 
+[2026-03-31 14:47:05.722 INF] [POST] /api/images/restore/d6e82eb63f634c779036d41a5d243a18 | Status: 400 | IP: ::1 | 0ms | UA: 
+[2026-03-31 14:47:07.735 INF] Primena filtera 'sierra' na sesiju d6e82eb63f634c779036d41a5d243a18
+[2026-03-31 14:47:08.137 INF] Filter 'sierra' zavrsen za 401ms
+[2026-03-31 14:47:08.806 INF] SerializeOutput: format=PNG colorspace=N/A compression=N/A velicina=5963.3KB dim=6000x4000
+[2026-03-31 14:47:08.809 INF] Filteri sierra zavrseni za 490ms na sesiji d6e82eb63f634c779036d41a5d243a18
+[2026-03-31 14:47:08.812 INF] [POST] /api/images/filter | Status: 200 | IP: ::1 | 1162ms | UA: 
+[2026-03-31 14:47:08.817 INF] Download: sesija=d6e82eb63f634c779036d41a5d243a18 resultId=2715deee format=png velicina=5963.3KB
+[2026-03-31 14:47:08.825 INF] [GET] /api/images/download/d6e82eb63f634c779036d41a5d243a18/2715deee/png | Status: 200 | IP: ::1 | 8ms | UA: 
+[2026-03-31 14:47:17.656 INF] Sesija d6e82eb63f634c779036d41a5d243a18 obrisana.
+[2026-03-31 14:47:17.657 INF] Eksplicitno brisanje sesije d6e82eb63f634c779036d41a5d243a18
+[2026-03-31 14:47:17.658 INF] [DELETE] /api/images/session/d6e82eb63f634c779036d41a5d243a18 | Status: 200 | IP: ::1 | 9ms | UA: 
+[2026-03-31 22:54:48.879 INF] MSI Server se pokrece...
+[2026-03-31 22:54:48.989 INF] MSI Server pokrenut. Slusam na http://localhost:5000
+[2026-03-31 22:54:56.916 INF] SessionService pokrenut. Storage: msi_storage
+[2026-03-31 22:54:56.954 INF] Nova sesija: 497cb0616bba4efaa1bfcb0211b3b127 za 'benjammins-download.gif'
+[2026-03-31 22:54:56.979 INF] Upload OK: session=497cb0616bba4efaa1bfcb0211b3b127 size=498x498
+[2026-03-31 22:54:57.012 INF] [POST] /api/images/upload | Status: 200 | IP: ::1 | 135ms | UA: 
+[2026-03-31 22:55:10.846 INF] Primena filtera 'cross_domain_colorize' na sesiju 497cb0616bba4efaa1bfcb0211b3b127
+[2026-03-31 22:55:10.870 INF] Filter 'cross_domain_colorize' zavrsen za 21ms
+[2026-03-31 22:55:10.882 INF] SerializeOutput: format=PNG colorspace=N/A compression=N/A velicina=39.9KB dim=498x498
+[2026-03-31 22:55:10.885 INF] Filteri cross_domain_colorize zavrseni za 26ms na sesiji 497cb0616bba4efaa1bfcb0211b3b127
+[2026-03-31 22:55:10.889 INF] [POST] /api/images/filter | Status: 200 | IP: ::1 | 63ms | UA: 
+[2026-03-31 22:55:10.897 INF] Download: sesija=497cb0616bba4efaa1bfcb0211b3b127 resultId=affa35ea format=png velicina=39.9KB
+[2026-03-31 22:55:10.902 INF] [GET] /api/images/download/497cb0616bba4efaa1bfcb0211b3b127/affa35ea/png | Status: 200 | IP: ::1 | 8ms | UA: 
+[2026-03-31 22:55:47.889 INF] Sesija 497cb0616bba4efaa1bfcb0211b3b127 obrisana.
+[2026-03-31 22:55:47.890 INF] Eksplicitno brisanje sesije 497cb0616bba4efaa1bfcb0211b3b127
+[2026-03-31 22:55:47.892 INF] [DELETE] /api/images/session/497cb0616bba4efaa1bfcb0211b3b127 | Status: 200 | IP: ::1 | 5ms | UA: 
