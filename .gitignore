@@ -1,0 +1,2 @@
+echo ".vs/" > .gitignore
+echo ".git-old/" >> .gitignore
