@@ -1,0 +1,56 @@
+[2026-03-30 23.10.03.406] [INFO] MSI klijent pokrenut.
+[2026-03-30 23.10.56.660] [INFO] Upload: Screenshot_1.png 1152x654
+[2026-03-30 23.11.07.219] [INFO] MSI export pocinje: colorspace=0 compression=0
+[2026-03-30 23.11.07.236] [INFO] MSI export zavrseno: 735KB -> output_20260330_231102.msi
+[2026-03-30 23.11.17.573] [INFO] Stara sesija obrisana.
+[2026-03-30 23.11.17.624] [INFO] Upload: output_20260330_231102.msi 1152x654
+[2026-03-30 23.36.01.708] [INFO] MSI export pocinje: colorspace=3 compression=0
+[2026-03-30 23.36.01.745] [INFO] MSI export zavrseno: 2207KB -> output_20260330_233558.msi
+[2026-03-30 23.36.07.619] [INFO] Stara sesija obrisana.
+[2026-03-30 23.36.07.708] [INFO] Upload: output_20260330_233558.msi 1152x654
+[2026-03-30 23.36.14.064] [INFO] Filter 'mean_removal' OK | 86ms
+[2026-03-30 23.36.30.423] [INFO] Sesija obrisana pri zatvaranju.
+[2026-03-31 00.26.11.378] [INFO] MSI klijent pokrenut.
+[2026-03-31 14.00.43.003] [INFO] MSI klijent pokrenut.
+[2026-03-31 14.00.46.601] [ERROR] Upload | Server greska 500: Object reference not set to an instance of an object.
+[2026-03-31 14.01.00.016] [ERROR] Upload | Server greska 500: Object reference not set to an instance of an object.
+[2026-03-31 14.01.02.424] [ERROR] Upload | Server greska 500: Object reference not set to an instance of an object.
+[2026-03-31 14.01.09.298] [ERROR] Upload | Server greska 500: Object reference not set to an instance of an object.
+[2026-03-31 14.10.28.441] [INFO] MSI klijent pokrenut.
+[2026-03-31 14.10.30.934] [ERROR] Upload | Server greska 500: Object reference not set to an instance of an object.
+[2026-03-31 14.22.25.841] [INFO] MSI klijent pokrenut.
+[2026-03-31 14.22.28.150] [ERROR] Upload | Server greska 500: Object reference not set to an instance of an object.
+[2026-03-31 14.23.44.241] [INFO] MSI klijent pokrenut.
+[2026-03-31 14.23.46.946] [ERROR] Upload | Server greska 500: Object reference not set to an instance of an object.
+[2026-03-31 14.24.01.342] [INFO] MSI klijent pokrenut.
+[2026-03-31 14.24.04.698] [ERROR] Upload | Server greska 500: Object reference not set to an instance of an object.
+[2026-03-31 14.24.47.295] [INFO] MSI klijent pokrenut.
+[2026-03-31 14.24.53.301] [ERROR] Upload | Server greska 500: Object reference not set to an instance of an object.
+[2026-03-31 14.26.39.529] [INFO] MSI klijent pokrenut.
+[2026-03-31 14.26.42.021] [ERROR] Upload | Server greska 500: Object reference not set to an instance of an object.
+[2026-03-31 14.31.52.120] [INFO] MSI klijent pokrenut.
+[2026-03-31 14.31.54.786] [ERROR] Upload | Server greska 500: Object reference not set to an instance of an object.
+[2026-03-31 14.32.54.572] [INFO] MSI klijent pokrenut.
+[2026-03-31 14.32.56.857] [ERROR] Upload | Server greska 500: Object reference not set to an instance of an object.
+[2026-03-31 14.41.41.920] [INFO] MSI klijent pokrenut.
+[2026-03-31 14.42.15.643] [ERROR] Upload | Server greska 500: Object reference not set to an instance of an object.
+[2026-03-31 14.42.19.639] [ERROR] Upload | Server greska 500: Object reference not set to an instance of an object.
+[2026-03-31 14.43.45.910] [INFO] MSI klijent pokrenut.
+[2026-03-31 14.43.49.467] [INFO] Upload: Screenshot_1.png 1152x654
+[2026-03-31 14.43.55.462] [INFO] Stara sesija obrisana.
+[2026-03-31 14.43.57.040] [INFO] Upload: DSC_0855-.jpg 6000x4000
+[2026-03-31 14.46.32.434] [INFO] Filter 'sierra' OK | 1495ms
+[2026-03-31 14.46.37.973] [WARN] Server sync neuspesan: An error occurred while sending the request.
+[2026-03-31 14.46.44.307] [INFO] Filter 'sierra' OK | 512ms
+[2026-03-31 14.46.51.747] [INFO] Filter 'sierra' OK | 509ms
+[2026-03-31 14.46.54.626] [WARN] Server sync neuspesan: An error occurred while sending the request.
+[2026-03-31 14.46.54.628] [INFO] Server sync OK -> 'original'
+[2026-03-31 14.46.58.569] [INFO] Filter 'sierra' OK | 510ms
+[2026-03-31 14.47.05.729] [WARN] Server sync neuspesan: An error occurred while sending the request.
+[2026-03-31 14.47.08.913] [INFO] Filter 'sierra' OK | 490ms
+[2026-03-31 14.47.19.650] [INFO] Sesija obrisana pri zatvaranju.
+[2026-03-31 22.54.52.695] [INFO] MSI klijent pokrenut.
+[2026-03-31 22.54.57.053] [INFO] Upload: benjammins-download.gif 498x498
+[2026-03-31 22.55.10.914] [INFO] Filter 'cross_domain_colorize' OK | 26ms
+[2026-03-31 22.55.18.576] [INFO] Export: C:\Users\Uros\Desktop\output_20260331_225513.gif
+[2026-03-31 22.55.49.897] [INFO] Sesija obrisana pri zatvaranju.
