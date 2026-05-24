@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8DOpwOLzT4E=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Uros\\Desktop\\MMS proj 1\\MSI.Core\\MSI.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Uros\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Uros\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Uros\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\Uros\\.nuget\\packages\\system.drawing.common\\8.0.0\\system.drawing.common.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
